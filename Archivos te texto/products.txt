@@ -1,0 +1,5 @@
+1,1,Galletas Chokis,15.00, 1, 15.00
+2,2,Chocolates Artesanal,20.00, 1, 20.00
+3,3,Harina,2.00, 2, 4.00
+4,4,Mantequilla,5.00, 1, 5.00
+5,5,Café,2.50, 1, 2.50
